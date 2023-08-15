@@ -1,1 +1,1 @@
-collection of small/simple shell scrips for linux ricing / use of use
+collection of small/simple shell scrips for linux ricing / ease of use
